@@ -21,15 +21,6 @@
   },
   "author": "corollari",
   "license": "MIT",
-  "files": [
-    "data/*",
-    "build/index.js",
-    "build/index.d.ts",
-    "build/utils.js",
-    "build/params.js",
-    "downloadDatabases.py",
-    "processGeoIpCsv.py"
-  ],
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "devDependencies": {
